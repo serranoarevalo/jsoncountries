@@ -10,7 +10,7 @@
     "flag": "🇺🇸"
   },
   { "name": "Andorra", "dial_code": "+376", "code": "AD", "flag": "🇦🇩" },
-  { "name": "Angola", "dial_code": "+244", "code": "AO", "flag": "" },
+  { "name": "Angola", "dial_code": "+244", "code": "AO", "flag": "🇦🇴" },
   { "name": "Anguilla", "dial_code": "+1264", "code": "AI", "flag": "🇦🇮" },
   { "name": "Antarctica", "dial_code": "+672", "code": "AQ", "flag": "🇦🇶" },
   {
@@ -39,7 +39,7 @@
     "name": "Bolivia, Plurinational State of bolivia",
     "dial_code": "+591",
     "code": "BO",
-    "flag": ""
+    "flag": "🇧🇴"
   },
   {
     "name": "Bosnia and Herzegovina",
@@ -54,7 +54,7 @@
     "name": "British Indian Ocean Territory",
     "dial_code": "+246",
     "code": "IO",
-    "flag": ""
+    "flag": "🇮🇴"
   },
   {
     "name": "Brunei Darussalam",
@@ -96,7 +96,7 @@
     "code": "CC",
     "flag": "🇨🇨"
   },
-  { "name": "Colombia", "dial_code": "+57", "code": "CO", "flag": "" },
+  { "name": "Colombia", "dial_code": "+57", "code": "CO", "flag": "🇨🇴" },
   { "name": "Comoros", "dial_code": "+269", "code": "KM", "flag": "🇰🇲" },
   { "name": "Congo", "dial_code": "+242", "code": "CG", "flag": "🇨🇬" },
   {
@@ -139,7 +139,7 @@
     "code": "FK",
     "flag": "🇫🇰"
   },
-  { "name": "Faroe Islands", "dial_code": "+298", "code": "FO", "flag": "" },
+  { "name": "Faroe Islands", "dial_code": "+298", "code": "FO", "flag": "🇫🇴" },
   { "name": "Fiji", "dial_code": "+679", "code": "FJ", "flag": "🇫🇯" },
   { "name": "Finland", "dial_code": "+358", "code": "FI", "flag": "🇫🇮" },
   { "name": "France", "dial_code": "+33", "code": "FR", "flag": "🇫🇷" },
@@ -200,7 +200,7 @@
   { "name": "Iraq", "dial_code": "+964", "code": "IQ", "flag": "🇮🇶" },
   { "name": "Ireland", "dial_code": "+353", "code": "IE", "flag": "🇮🇪" },
   { "name": "Isle of Man", "dial_code": "+44", "code": "IM", "flag": "🇮🇲" },
-  { "name": "Israel", "dial_code": "+972", "code": "IL", "flag": "" },
+  { "name": "Israel", "dial_code": "+972", "code": "IL", "flag": "🇮🇱" },
   { "name": "Italy", "dial_code": "+39", "code": "IT", "flag": "🇮🇹" },
   { "name": "Jamaica", "dial_code": "+1876", "code": "JM", "flag": "🇯🇲" },
   { "name": "Japan", "dial_code": "+81", "code": "JP", "flag": "🇯🇵" },
